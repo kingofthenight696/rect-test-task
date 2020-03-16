@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex: 1;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+}
+
+.App-image {
+  height: 25px;
+  align-self: center;
+  margin-bottom: -4px;
+}
+
+.App-form-subtitle {
+  margin-top: 56px;
+  margin-bottom: 20px;
+}
+
+.App-form-message {
+  margin-top: 10px;
+  width: 370px;
+  align-self: center;
+  margin-bottom: 18px;
+}
